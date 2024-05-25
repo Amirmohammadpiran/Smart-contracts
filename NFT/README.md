@@ -34,4 +34,6 @@
 
 7- Deploy and run the contract (wallet and token URL)
 
-The NFT will be exposed on the website!
+The NFT will be exposed on the website:
+
+![Screenshot](Screenshot.png)
