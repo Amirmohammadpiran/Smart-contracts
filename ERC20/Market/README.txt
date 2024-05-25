@@ -1,8 +1,10 @@
 This is a market for AFT token (Amir's First Token)!
-It means you can place orders for selling and buying AFT in your own price;
+
+This means you can place orders for selling and buying AFT with your own price;
 The market will match the orders together and pay you with the currency that you want!
 
 There are some steps to take:
+
     1- Deploy the AmirERC20 contract as owner of the token (W1: owner wallet, C1: wallet of the contract itself)
     2- Deploy the market contract as owner of the market (W2: owner wallet, C2: wallet of the market itself)
     3- Give credit as W1 to C2:
