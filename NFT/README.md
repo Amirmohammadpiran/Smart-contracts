@@ -7,7 +7,7 @@
 2- Create bucket and add the media of NFT, add a metadata.json which includes the IPFS gateway URL of the media and info about NFT like this:
 	
 	{ 
-	  "description": "my first f***ing nft!",
+	  "description": "my first first nft!",
 	  "external_url": "Alchemy.com/?a=roadtoweb3weekone",
 	  "image": "https://ipfs.filebase.io/ipfs/QmcPtQdBDN2sZSTCMjVTusso7LS1R21emEVb1uNRLtUF43",
 	  "name": "A cool NFT", 
