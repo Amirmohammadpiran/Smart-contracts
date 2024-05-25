@@ -1,0 +1,20 @@
+{ 
+  "description": "my first f***ing nft!",
+  "external_url": "Alchemy.com/?a=roadtoweb3weekone",
+  "image": "https://ipfs.filebase.io/ipfs/QmcPtQdBDN2sZSTCMjVTusso7LS1R21emEVb1uNRLtUF43",
+  "name": "A cool NFT", 
+  "attributes": [
+    {
+      "trait_type": "Power", 
+      "value": "Science"
+    }, 
+    {
+      "trait_type": "Series", 
+      "value": "Family Guy"
+    }, 
+    {
+      "trait_type": "Mood", 
+      "value": "In Love"
+    }]
+}
+
