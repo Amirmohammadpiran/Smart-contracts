@@ -5,10 +5,10 @@
 
 There are some steps to take:
 
- **1-** Deploy the AmirERC20 contract as owner of the token (W1: owner wallet, C1: wallet of the contract itself)
+ **1-** Deploy the AmirERC20 contract as the owner of the token (W1: owner wallet, C1: wallet of the contract itself)
 
  
- **2-** Deploy the market contract as owner of the market (W2: owner wallet, C2: wallet of the market itself)
+ **2-** Deploy the market contract as the owner of the market (W2: owner wallet, C2: wallet of the market itself)
 
  
  **3-** Give credit as W1 to C2:
