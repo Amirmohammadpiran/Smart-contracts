@@ -1,5 +1,7 @@
 # This is a market for AFT token (Amir's First Token)!
 
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)  ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
+
 **This means you can place orders for selling and buying AFT with your own price;**
 **The market will match the orders together and pay you with the currency that you want!**
 
