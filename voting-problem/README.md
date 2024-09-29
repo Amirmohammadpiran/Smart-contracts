@@ -1,5 +1,7 @@
 We have a voting problem!
 
+![image](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black) ![image](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) 
+
 There is a person in charge who has these capabalities:
 
 	1- Set start time and end time
